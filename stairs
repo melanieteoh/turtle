@@ -1,0 +1,23 @@
+from turtle import *
+exitonclick()
+
+width(10)
+forward(30)
+left(90)
+forward(30)
+right(90)
+
+width(5)
+forward(30)
+left(90)
+forward(30)
+right(90)
+
+width(3)
+forward(30)
+left(90)
+forward(30)
+right(90)
+
+width(1)
+forward(30)
